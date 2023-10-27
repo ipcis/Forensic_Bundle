@@ -6,7 +6,7 @@ This GitHub repository contains a comprehensive set of tools designed for Digita
 
 1. **CoreThreat Analyzer:** A powerful analysis tool for dissecting and understanding security threats.
 2. **CoreThreat Triage:** Speed up your triage process with this tool, making initial assessments more efficient.
-3. **PCQF (Potentially Compromised Quick Facts):** A handy reference for identifying potentially compromised systems.
+3. **PCQF (PC Quick Forensics):** A handy reference for identifying potentially compromised systems.
 4. **ProcessHacker:** A user-friendly task manager and system analysis tool.
 5. **Sysinternals Tools:** A collection of advanced system utilities from Microsoft's Sysinternals Suite.
 6. **x64dbg:** An open-source, feature-rich debugger for Windows.
